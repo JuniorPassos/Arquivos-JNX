@@ -62,7 +62,7 @@ O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Portugu�
 **Desenvolvedor:** [averne](https://github.com/averne) [GitHub](https://github.com/averne/Fizeau)  
 
 **ldnmitm_config**  
-**Descrição:** Homebrew para configuração do módulo ldn_mitm que transforma a funcionalidade de local multiplayer em Lan Play.  
+**Descrição:** Altera a funcionalidade de local multiplayer em Lan Play em jogos suportados.  
 **Desenvolvedor:** [spacemeowx2](https://github.com/spacemeowx2) [GitHub](https://github.com/spacemeowx2/ldn_mitm)  
 
 **ovl-sysmodules**  
