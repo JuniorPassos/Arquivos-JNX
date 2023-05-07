@@ -17,12 +17,12 @@ ovlmenu ---------------------- v1.2.1
 
 Adicionado também alguns homebrews e complementos que fazem parte dos módulos acima:
 ```sh
-nx-ovlloader ----------------- v1.0.6  
+nx-ovlloader ----------------- v1.0.7  
 EdiZon-SE -------------------- v3.8.37  
 Fizeau ----------------------- v2.4.1   
 ldnmitm_config --------------- v1.1.1  
 SaltyNX ---------------------- v0.5.2  
-NX-FPS ----------------------- v1.4.0  
+NX-FPS ----------------------- v1.4.1  
 sys-clk-manager -------------- v1.0.3  
 ```
 O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Português do Brasil.  
