@@ -1,8 +1,8 @@
-## Módulos PT-BR para Atmosphère - Nintendo Switch
+## Complementos e Módulos PT-BR para Atmosphère - Nintendo Switch
 
-Arquivos testados e compatíveis com FW 16.0.3 e AMS 1.5.3.  
+Arquivos testados e compatíveis com FW 16.0.3 e AMS 1.5.3/1.5.4.  
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
-Os arquivos seguem com os nomes abaixo para manterem essa ordem de exibição no Menu Tesla:  
+Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
 1_sys-clk -------------------- v1.0.3  
 2_EdiZon --------------------- v1.0.5  
@@ -13,11 +13,11 @@ Os arquivos seguem com os nomes abaixo para manterem essa ordem de exibição no
 7_ldnmitm_config ------------- v1.15.0  
 8_SysModules ----------------- v1.3.1  
 ovlmenu ---------------------- v1.2.2  
+nx-ovlloader ----------------- v1.0.7  
 ```
 
 Adicionado também alguns homebrews e complementos que fazem parte dos módulos acima:
 ```sh
-nx-ovlloader ----------------- v1.0.7  
 EdiZon-SE -------------------- v3.8.37  
 Fizeau ----------------------- v2.4.1   
 ldnmitm_config --------------- v1.1.1  
@@ -75,7 +75,8 @@ O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Portugu�
 **Desenvolvedor:** [WerWolv](https://github.com/WerWolv) [GitHub](https://github.com/WerWolv/ovl-sysmodules)  
 
 ### 📝 
-Agradecimentos ao [zdm65477730](https://github.com/zdm65477730) por fornecer os arquivos e código fonte do multi-idioma.  
+Agradecimentos ao [zdm65477730](https://github.com/zdm65477730) por fornecer os arquivos e código fonte do multi-idioma. 
+Agradecimentos aos desenvolvedores acima de seus respectivos programas. 
 Arquivos recompilados e traduzidos em Português do Brasil por Junior Passos.  
 
 
