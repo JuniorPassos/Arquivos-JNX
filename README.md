@@ -23,6 +23,7 @@ Fizeau ----------------------- v2.4.1
 ldnmitm_config --------------- v1.1.1  
 SaltyNX ---------------------- v0.6.0  
 NX-FPS ----------------------- v1.5.0  
+Reboot ----------------------- v1.2.1
 sys-clk-manager -------------- v1.0.3  
 ```
 O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Português do Brasil.  
@@ -60,6 +61,10 @@ O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Portugu�
 **Fizeau**  
 **Descrição:** Ajuste as cores da tela do seu Nintendo Switch.  
 **Desenvolvedor:** [averne](https://github.com/averne) [GitHub](https://github.com/averne/Fizeau)  
+
+**Reboot**  
+**Descrição:** Reinicie seu Nintendo Switch rapidamente (ideal para consoles modchip).  
+**Desenvolvedor:** [dezem](https://github.com/dezem) [GitHub](https://github.com/dezem/Safe_Reboot)  
 
 **ldnmitm_config**  
 **Descrição:** Altera a funcionalidade de local multiplayer em Lan Play em jogos suportados.  
