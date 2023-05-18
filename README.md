@@ -75,7 +75,7 @@ O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Portugu�
 **Desenvolvedor:** [WerWolv](https://github.com/WerWolv) [GitHub](https://github.com/WerWolv/ovl-sysmodules)  
 
 ### 📝 
-Agradecimentos ao [zdm65477730](https://github.com/zdm65477730) por fornecer os arquivos e código fonte do multi-idioma. 
+Agradecimentos ao [zdm65477730](https://github.com/zdm65477730) por fornecer os arquivos e código fonte do multi-idioma.  
 Agradecimentos aos desenvolvedores acima de seus respectivos programas. 
 Arquivos recompilados e traduzidos em Português do Brasil por Junior Passos.  
 
