@@ -12,7 +12,7 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 6_Fizeau --------------------- v2.4.1  
 7_ldnmitm_config ------------- v1.15.0  
 8_SysModules ----------------- v1.3.1  
-ovlmenu ---------------------- v1.2.2  
+ovlmenu ---------------------- v1.2.3  
 nx-ovlloader ----------------- v1.0.7  
 ```
 
@@ -22,7 +22,7 @@ EdiZon-SE -------------------- v3.8.37
 Fizeau ----------------------- v2.4.1   
 ldnmitm_config --------------- v1.1.1  
 SaltyNX ---------------------- v0.6.0  
-NX-FPS ----------------------- v1.5.0  
+NX-FPS ----------------------- v1.5.3  
 Reboot ----------------------- v1.2.1
 sys-clk-manager -------------- v1.0.3  
 ```
