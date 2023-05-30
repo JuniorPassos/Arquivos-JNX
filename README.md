@@ -7,7 +7,7 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 1_sys-clk -------------------- v1.0.3  
 2_EdiZon --------------------- v1.0.5  
 3_Emuiibo -------------------- v1.0.0  
-4_StatusMonitor -------------- v0.9.0  
+4_StatusMonitor -------------- v0.9.1  
 5_ReverseNX-RT --------------- v1.1.1  
 6_Fizeau --------------------- v2.4.1  
 7_ldnmitm_config ------------- v1.15.0  
