@@ -5,7 +5,7 @@ Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Bra
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
 1_sys-clk -------------------- v1.0.3  
-2_EdiZon --------------------- v1.0.5  
+2_EdiZon --------------------- v1.0.6  
 3_Emuiibo -------------------- v1.0.0  
 4_StatusMonitor -------------- v0.9.1  
 5_ReverseNX-RT --------------- v1.1.1  
@@ -22,7 +22,7 @@ EdiZon-SE -------------------- v3.8.37
 Fizeau ----------------------- v2.4.1   
 ldnmitm_config --------------- v1.1.1  
 SaltyNX ---------------------- v0.6.0  
-NX-FPS ----------------------- v1.5.3  
+NX-FPS ----------------------- v1.5.4  
 Reboot ----------------------- v1.2.1
 sys-clk-manager -------------- v1.0.3  
 ```
