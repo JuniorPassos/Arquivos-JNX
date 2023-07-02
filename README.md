@@ -24,7 +24,8 @@ ldnmitm_config --------------- v1.1.1
 SaltyNX ---------------------- v0.6.0  
 NX-FPS ----------------------- v1.5.4  
 Reboot ----------------------- v1.2.1
-sys-clk-manager -------------- v1.0.3  
+sys-clk-manager -------------- v1.0.3
+NX Activity Log -------------- v1.4.0
 ```
 O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Português do Brasil.  
 
@@ -61,6 +62,10 @@ O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Portugu�
 **Fizeau**  
 **Descrição:** Ajuste as cores da tela do seu Nintendo Switch.  
 **Desenvolvedor:** [averne](https://github.com/averne) [GitHub](https://github.com/averne/Fizeau)  
+
+**NX Activity Log**  
+**Descrição:** Exibe informações mais precisas sobre suas atividades de jogos.  
+**Desenvolvedor:** [tallbl0nde](https://github.com/tallbl0nde) [GitHub](https://github.com/tallbl0nde/NX-Activity-Log)  
 
 **Reboot**  
 **Descrição:** Reinicie seu Nintendo Switch rapidamente (ideal para consoles modchip).  
