@@ -80,7 +80,7 @@ O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Portugu�
 
 ### 📝 
 Agradecimentos ao [zdm65477730](https://github.com/zdm65477730) por fornecer o código fonte para o suporte ao multi-idioma.  
-Agradecimentos à todos os desenvolvedores acima de seus respectivos softwares.  
+Agradecimentos à todos os desenvolvedores acima por seus respectivos softwares.  
 Arquivos recompilados e traduzidos para Português do Brasil por Junior Passos.  
 
 
