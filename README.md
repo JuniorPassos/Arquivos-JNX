@@ -6,7 +6,7 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 ```sh
 1_sys-clk -------------------- v1.0.3  
 2_EdiZon --------------------- v1.0.7  
-3_Emuiibo -------------------- v1.0.0  
+3_Emuiibo -------------------- v1.1.0  
 4_StatusMonitor -------------- v0.9.1  
 5_ReverseNX-RT --------------- v1.1.1  
 6_Fizeau --------------------- v2.4.1  
@@ -17,12 +17,11 @@ nx-ovlloader ----------------- v1.0.7
 ```
 
 Adicionado também alguns homebrews e complementos que fazem parte dos módulos acima:
-```sh
-EdiZon-SE -------------------- v3.8.37  
+```sh 
 Fizeau ----------------------- v2.4.1   
 ldnmitm_config --------------- v1.1.1  
 SaltyNX ---------------------- v0.6.0  
-NX-FPS ----------------------- v1.5.4  
+NX-FPS ----------------------- v1.5.5  
 Reboot ----------------------- v1.2.1
 sys-clk-manager -------------- v1.0.3
 NX Activity Log -------------- v1.4.0
@@ -43,9 +42,9 @@ O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Portugu�
 **Descrição:** Permite gerenciar e personalizar as frequências da CPU, GPU e MEM do console.  
 **Desenvolvedor:** [jope82](https://github.com/jope82) [GitHub](https://github.com/jope82/sys-clk-uncapped-gpu-and-other-extras)  
 
-**EdiZon Overlay e EdiZon-SE**  
-**Descrição:** Ferramenta para aplicar trapaças nos jogos instalados no console. Homebrew para criação e edição de cheats (trapaças).  
-**Desenvolvedores:** [proferabg](https://github.com/proferabg) [GitHub](https://github.com/proferabg/EdiZon-Overlay) , [tomvita](https://github.com/tomvita) [GitHub](https://github.com/tomvita/EdiZon-SE)  
+**EdiZon Overlay**  
+**Descrição:** Ferramenta para aplicar trapaças nos jogos instalados no console. 
+**Desenvolvedores:** [proferabg](https://github.com/proferabg) [GitHub](https://github.com/proferabg/EdiZon-Overlay) 
 
 **Emuiibo**  
 **Descrição:** Gerenciamento e emulação virtual dos amiibos. Os amiibos precisam ser gerados usando o Emutool.  
