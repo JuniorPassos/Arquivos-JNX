@@ -1,6 +1,6 @@
 ## Complementos e Módulos PT-BR para Atmosphère - Nintendo Switch
 
-Arquivos testados e compatíveis com FW 16.0.3 e AMS 1.5.3/1.5.4.  
+Arquivos testados e compatíveis com FW 16.1.0 e AMS 1.5.5.  
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
@@ -10,7 +10,7 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 4_StatusMonitor -------------- v0.9.1  
 5_ReverseNX-RT --------------- v1.1.1  
 6_Fizeau --------------------- v2.4.1  
-7_ldnmitm_config ------------- v1.15.0  
+7_ldnmitm_config ------------- v1.15.1  
 8_SysModules ----------------- v1.3.1  
 ovlmenu ---------------------- v1.2.3  
 nx-ovlloader ----------------- v1.0.7  
