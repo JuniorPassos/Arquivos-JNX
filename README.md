@@ -70,7 +70,7 @@ O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Portugu�
 **Desenvolvedor:** [dezem](https://github.com/dezem) [GitHub](https://github.com/dezem/Safe_Reboot)  
 
 **FPSLocker**  
-**Descrição:** Permite alterar o FPS na maioria dos jogos (alguns necessitam de patchs adicionais [FPSLocker-Warehouse](https://github.com/masagrator/FPSLocker-Warehouse)).  
+**Descrição:** Altera o FPS em jogos compatíveis (alguns necessitam de patchs adicionais [FPSLocker-Warehouse](https://github.com/masagrator/FPSLocker-Warehouse)).  
 **Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/FPSLocker)  
 
 **ovl-sysmodules**  
