@@ -15,12 +15,12 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 8_SysModules ----------------- v1.3.1 
 ovlmenu ---------------------- v1.2.3 
 nx-ovlloader ----------------- v1.0.7
-MissionControl --------------- v0.9.4 
 ```
 
 Adicionado também alguns homebrews e complementos:  
 ```sh 
-Fizeau ----------------------- v2.4.1 
+Fizeau ----------------------- v2.4.1
+MissionControl --------------- v0.9.4 
 SaltyNX ---------------------- v0.6.1 
 NX-FPS ----------------------- v1.5.5 
 Reboot ----------------------- v1.2.1 
@@ -64,7 +64,7 @@ O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Portugu�
 **Desenvolvedor:** [averne](https://github.com/averne) [GitHub](https://github.com/averne/Fizeau)  
 
 **MasterVolume**  
-**Descrição:** Potencialize ou ajuste o volume diretamente pelo controle do Switch quando estiver conectado na Dock.  
+**Descrição:** Potencialize ou ajuste o volume diretamente pelo controle do Switch mesmo quando conectado na Dock.  
 **Desenvolvedor:** [averne](https://github.com/averne) [GitHub](https://github.com/averne/MasterVolume)  
 
 **NX Activity Log**  
