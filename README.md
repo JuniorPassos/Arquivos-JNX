@@ -19,8 +19,8 @@ nx-ovlloader ----------------- v1.0.7
 
 Adicionado também alguns homebrews e complementos:  
 ```sh 
+MissionControl --------------- v0.9.4
 Fizeau ----------------------- v2.4.1
-MissionControl --------------- v0.9.4 
 SaltyNX ---------------------- v0.6.1 
 NX-FPS ----------------------- v1.5.5 
 Reboot ----------------------- v1.2.1 
