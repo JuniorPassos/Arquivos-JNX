@@ -9,14 +9,16 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 3_Emuiibo -------------------- v1.1.1 
 4_StatusMonitor -------------- v0.9.1 
 5_ReverseNX-RT --------------- v1.1.1 
-6_Fizeau --------------------- v2.4.1 
+6_Fizeau --------------------- v2.4.1
+6_MasterVolume --------------- v1.1.0 
 7_FPSLocker ------------------ v1.2.4 
 8_SysModules ----------------- v1.3.1 
 ovlmenu ---------------------- v1.2.3 
-nx-ovlloader ----------------- v1.0.7 
+nx-ovlloader ----------------- v1.0.7
+MissionControl --------------- v0.9.4 
 ```
 
-Adicionado também alguns homebrews e complementos que fazem parte dos módulos acima:  
+Adicionado também alguns homebrews e complementos:  
 ```sh 
 Fizeau ----------------------- v2.4.1 
 SaltyNX ---------------------- v0.6.1 
@@ -61,6 +63,10 @@ O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Portugu�
 **Descrição:** Ajuste as cores da tela do seu Nintendo Switch.  
 **Desenvolvedor:** [averne](https://github.com/averne) [GitHub](https://github.com/averne/Fizeau)  
 
+**MasterVolume**  
+**Descrição:** Potencialize ou ajuste o volume diretamente pelo controle do Switch quando estiver conectado na Dock.  
+**Desenvolvedor:** [averne](https://github.com/averne) [GitHub](https://github.com/averne/MasterVolume)  
+
 **NX Activity Log**  
 **Descrição:** Exibe informações mais precisas sobre suas atividades de jogos.  
 **Desenvolvedor:** [tallbl0nde](https://github.com/tallbl0nde) [GitHub](https://github.com/tallbl0nde/NX-Activity-Log)  
@@ -76,6 +82,10 @@ O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Portugu�
 **ovl-sysmodules**  
 **Descrição:** Gerenciador de módulos para ativar e desativar os módulos instalados.  
 **Desenvolvedor:** [WerWolv](https://github.com/WerWolv) [GitHub](https://github.com/WerWolv/ovl-sysmodules)  
+
+**MissionControl**  
+**Descrição:** Conecte e use controles de outros consoles no seu Nintendo Switch via Bluetooth.  
+**Desenvolvedor:** [ndeadly](https://github.com/ndeadly) [GitHub](https://github.com/ndeadly/MissionControl)  
 
 ### 📝  
 Agradecimentos ao [zdm65477730](https://github.com/zdm65477730) por fornecer o código fonte para o suporte ao multi-idioma.  
