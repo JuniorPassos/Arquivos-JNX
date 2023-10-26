@@ -1,15 +1,14 @@
 ## Complementos e Módulos PT-BR para Atmosphère - Nintendo Switch  
 
-Arquivos testados e compatíveis com FW 16.1.0 e AMS 1.5.5.  
+Arquivos testados e compatíveis com FW 17.0.0 e AMS 1.6.1.  
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
-1_sys-clk -------------------- v1.0.3 
+1_sys-clk -------------------- v1.0.4 
 2_EdiZon --------------------- v1.0.7 
 3_Emuiibo -------------------- v1.1.1 
-4_StatusMonitor -------------- v0.9.1 
+4_StatusMonitor -------------- v0.9.2 
 5_ReverseNX-RT --------------- v2.0.0 
-6_Fizeau --------------------- v2.4.1
 6_MasterVolume --------------- v1.1.0 
 7_FPSLocker ------------------ v1.2.5 
 8_SysModules ----------------- v1.3.1 
@@ -19,14 +18,13 @@ nx-ovlloader ----------------- v1.0.7
 
 Adicionado também alguns homebrews e complementos:  
 ```sh 
-MissionControl --------------- v0.9.4
-Fizeau ----------------------- v2.4.1
+MissionControl --------------- v0.10.0
 SaltyNX ---------------------- v0.7.0 
 Reboot ----------------------- v1.2.1 
-sys-clk-manager -------------- v1.0.3 
+sys-clk-manager -------------- v1.0.4 
 NX Activity Log -------------- v1.4.0 
 ```
-O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Português do Brasil.  
+Os homebrews sys-clk-manager e NX Activity Log possuem suporte aos idiomas Inglês e Português do Brasil.  
 
 ### 👨‍💻 
 
@@ -57,10 +55,6 @@ O homebrew sys-clk-manager também possui suporte aos idiomas Inglês e Portugu�
 **ReverseNX-RT**  
 **Descrição:** Engana o sistema fazendo-o pensar que está no Modo Dock ao usar o modo portátil ou vice-versa com o auxílio do [Salty-NX](https://github.com/masagrator/SaltyNX).  
 **Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/ReverseNX-RT)  
-
-**Fizeau**  
-**Descrição:** Ajuste as cores da tela do seu Nintendo Switch.  
-**Desenvolvedor:** [averne](https://github.com/averne) [GitHub](https://github.com/averne/Fizeau)  
 
 **MasterVolume**  
 **Descrição:** Potencialize ou ajuste o volume diretamente pelo controle do Switch mesmo quando conectado na Dock.  
