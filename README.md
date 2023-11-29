@@ -28,7 +28,7 @@ Os homebrews sys-clk-manager e NX Activity Log possuem suporte aos idiomas Ingl�
 
 ### 👨‍💻 
 
-**Tesla-Menu**  (acesso do menu ZL+ZR+RS)
+**Tesla-Menu**  (acesso do menu ZL+ZR+RS)  
 **Descrição:** Necessário para exibição e funcionamento dos módulos instalados.  
 **Desenvolvedor:** [WerWolv](https://github.com/WerWolv) [GitHub](https://github.com/WerWolv/Tesla-Menu)  
 
