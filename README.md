@@ -7,10 +7,10 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 1_sys-clk -------------------- v2.0.0 
 2_EdiZon --------------------- v1.0.8 
 3_Emuiibo -------------------- v1.1.1 
-4_StatusMonitor -------------- v1.0.1 
+4_StatusMonitor -------------- v1.0.2 
 5_ReverseNX-RT --------------- v2.0.0 
 6_MasterVolume --------------- v1.1.0 
-7_FPSLocker ------------------ v1.2.5 
+7_FPSLocker ------------------ v1.2.6 
 8_SysModules ----------------- v1.3.1 
 ovlmenu ---------------------- v1.2.3 
 nx-ovlloader ----------------- v1.0.7 
@@ -18,14 +18,15 @@ nx-ovlloader ----------------- v1.0.7
 
 Adicionado também alguns homebrews e complementos:  
 ```sh 
-MissionControl --------------- v0.10.0
+hbmenu ----------------------- v3.6.0 
+MissionControl --------------- v0.10.0 
 SaltyNX ---------------------- v0.7.1 
 Reboot ----------------------- v1.2.1 
 sys-clk-manager -------------- v2.0.0 
-NX Activity Log -------------- v1.4.0
+NX Activity Log -------------- v1.4.0 
 TegraExplorer ---------------- v4.1.1 
 ```
-Os homebrews sys-clk-manager e NX Activity Log possuem suporte aos idiomas Inglês e Português do Brasil.  
+Os homebrews hbmenu, sys-clk-manager e NX Activity Log possuem suporte aos idiomas Inglês e Português do Brasil.  
 
 ### 👨‍💻 
 
