@@ -78,6 +78,10 @@ Os homebrews hbmenu, sys-clk-manager e NX Activity Log possuem suporte aos idiom
 **Descrição:** Gerenciador de módulos para ativar e desativar os módulos instalados.  
 **Desenvolvedor:** [WerWolv](https://github.com/WerWolv) [GitHub](https://github.com/WerWolv/ovl-sysmodules)  
 
+**hbmenu**  
+**Descrição:** Ferramenta essencial no desbloqueio para acessar todos os homebrews.  
+**Desenvolvedor:** [switchbrew](https://github.com/switchbrew) [GitHub](https://github.com/switchbrew/nx-hbmenu)   
+
 **MissionControl**  
 **Descrição:** Conecte e use controles de outros consoles no seu Nintendo Switch via Bluetooth.  
 **Desenvolvedor:** [ndeadly](https://github.com/ndeadly) [GitHub](https://github.com/ndeadly/MissionControl)  
