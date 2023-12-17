@@ -82,6 +82,10 @@ Os homebrews hbmenu, sys-clk-manager e NX Activity Log possuem suporte aos idiom
 **Descrição:** Ferramenta essencial no desbloqueio para acessar todos os homebrews.  
 **Desenvolvedor:** [switchbrew](https://github.com/switchbrew) [GitHub](https://github.com/switchbrew/nx-hbmenu)   
 
+**loader.kip**  
+**Descrição:** Arquivo necessário para liberar frequências da CPU/GPU/RAM superiores aos padrões de fábrica do console.
+**Desenvolvedor:** [hanai3Bi](https://github.com/hanai3Bi) [Github](https://github.com/hanai3Bi/Switch-OC-Suite)   
+
 **MissionControl**  
 **Descrição:** Conecte e use controles de outros consoles no seu Nintendo Switch via Bluetooth.  
 **Desenvolvedor:** [ndeadly](https://github.com/ndeadly) [GitHub](https://github.com/ndeadly/MissionControl)  
