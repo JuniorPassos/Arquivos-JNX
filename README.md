@@ -7,7 +7,7 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 1_sys-clk -------------------- v2.0.0 
 2_EdiZon --------------------- v1.0.8 
 3_Emuiibo -------------------- v1.1.1 
-4_StatusMonitor -------------- v1.0.2 
+4_StatusMonitor -------------- v1.0.3 
 5_ReverseNX-RT --------------- v2.0.0 
 6_MasterVolume --------------- v1.1.0 
 7_FPSLocker ------------------ v1.2.6 
