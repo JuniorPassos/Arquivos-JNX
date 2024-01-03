@@ -25,6 +25,7 @@ Reboot ----------------------- v1.2.1
 sys-clk-manager -------------- v2.0.0 
 NX Activity Log -------------- v1.4.0 
 TegraExplorer ---------------- v4.1.1 
+loader.kip ------------------- v1.9.2 
 ```
 Os homebrews hbmenu, sys-clk-manager e NX Activity Log possuem suporte aos idiomas Inglês e Português do Brasil.  
 
@@ -83,7 +84,8 @@ Os homebrews hbmenu, sys-clk-manager e NX Activity Log possuem suporte aos idiom
 **Desenvolvedor:** [switchbrew](https://github.com/switchbrew) [GitHub](https://github.com/switchbrew/nx-hbmenu)   
 
 **loader.kip**  
-**Descrição:** Arquivo necessário para liberar frequências da CPU/GPU/RAM superiores aos padrões de fábrica do console.
+**Descrição:** Arquivo necessário para liberar frequências da CPU/GPU/RAM superiores aos padrões de fábrica do console.  
+Obs: necessário ativar no hekate_ipl.ini adicionando a seguinte linha: `kip1=atmosphere/kips/loader.kip`  
 **Desenvolvedor:** [hanai3Bi](https://github.com/hanai3Bi) [GitHub](https://github.com/hanai3Bi/Switch-OC-Suite)   
 
 **MissionControl**  
