@@ -10,7 +10,7 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 4_StatusMonitor -------------- v1.0.3 
 5_ReverseNX-RT --------------- v2.0.0 
 6_MasterVolume --------------- v1.1.0 
-7_FPSLocker ------------------ v1.2.6 
+7_FPSLocker ------------------ v1.2.7 
 8_SysModules ----------------- v1.3.1 
 ovlmenu ---------------------- v1.2.3 
 nx-ovlloader ----------------- v1.0.7 
