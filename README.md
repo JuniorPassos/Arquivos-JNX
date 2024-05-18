@@ -19,7 +19,7 @@ nx-ovlloader ----------------- v1.0.7
 Adicionado também alguns homebrews e complementos:  
 ```sh 
 hbmenu ----------------------- v3.6.0 
-MissionControl --------------- v0.10.0 
+MissionControl --------------- v0.11.0 
 SaltyNX ---------------------- v0.7.4 
 Reboot ----------------------- v1.2.1 
 sys-clk-manager -------------- v2.0.0 
