@@ -1,6 +1,6 @@
 ## Complementos e Módulos PT-BR para Atmosphère - Nintendo Switch  
 
-Arquivos testados e compatíveis com FW 17.0.1 e AMS 1.6.2.  
+Arquivos testados e compatíveis com FW 18.1.0 e AMS 1.7.1.  
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
@@ -9,7 +9,7 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 3_Emuiibo -------------------- v1.1.1 
 4_StatusMonitor -------------- v1.0.3 
 5_ReverseNX-RT --------------- v2.0.0 
-6_MasterVolume --------------- v1.1.0 
+6_MasterVolume --------------- v1.1.1 
 7_FPSLocker ------------------ v1.2.8 
 8_SysModules ----------------- v1.3.1 
 ovlmenu ---------------------- v1.2.3 
@@ -19,13 +19,12 @@ nx-ovlloader ----------------- v1.0.7
 Adicionado também alguns homebrews e complementos:  
 ```sh 
 hbmenu ----------------------- v3.6.0 
-MissionControl --------------- v0.11.0 
+MissionControl --------------- v0.11.1 
 SaltyNX ---------------------- v0.7.4 
 Reboot ----------------------- v1.2.1 
 sys-clk-manager -------------- v2.0.0 
 NX Activity Log -------------- v1.4.0 
 TegraExplorer ---------------- v4.1.1 
-loader.kip ------------------- v1.9.2 
 ```
 Os homebrews hbmenu, sys-clk-manager e NX Activity Log possuem suporte aos idiomas Inglês e Português do Brasil.  
 
@@ -81,12 +80,7 @@ Os homebrews hbmenu, sys-clk-manager e NX Activity Log possuem suporte aos idiom
 
 **hbmenu**  
 **Descrição:** Ferramenta essencial no desbloqueio para acessar todos os homebrews.  
-**Desenvolvedor:** [switchbrew](https://github.com/switchbrew) [GitHub](https://github.com/switchbrew/nx-hbmenu)   
-
-**loader.kip**  
-**Descrição:** Arquivo necessário para liberar frequências da CPU/GPU/RAM superiores aos padrões de fábrica do console.  
-Obs: necessário ativar no hekate_ipl.ini adicionando a seguinte linha: `kip1=atmosphere/kips/loader.kip`  
-**Desenvolvedor:** [hanai3Bi](https://github.com/hanai3Bi) [GitHub](https://github.com/hanai3Bi/Switch-OC-Suite)   
+**Desenvolvedor:** [switchbrew](https://github.com/switchbrew) [GitHub](https://github.com/switchbrew/nx-hbmenu)    
 
 **MissionControl**  
 **Descrição:** Conecte e use controles de outros consoles no seu Nintendo Switch via Bluetooth.  
