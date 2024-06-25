@@ -7,11 +7,10 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 1_sys-clk -------------------- v2.0.0 
 2_EdiZon --------------------- v1.0.8 
 3_Emuiibo -------------------- v1.1.1 
-4_StatusMonitor -------------- v1.0.3 
+4_StatusMonitor -------------- v1.0.4 
 5_ReverseNX-RT --------------- v2.0.0 
 6_MasterVolume --------------- v1.1.1 
-7_FPSLocker ------------------ v1.2.8 
-8_SysModules ----------------- v1.3.1 
+7_SysModules ----------------- v1.3.1 
 ovlmenu ---------------------- v1.2.3 
 nx-ovlloader ----------------- v1.0.7 
 ```
@@ -68,11 +67,7 @@ Os homebrews hbmenu, sys-clk-manager e NX Activity Log possuem suporte aos idiom
 
 **Reboot**  
 **Descrição:** Reinicie seu Nintendo Switch rapidamente (ideal para consoles modchip).  
-**Desenvolvedor:** [dezem](https://github.com/dezem) [GitHub](https://github.com/dezem/Safe_Reboot)  
-
-**FPSLocker**  
-**Descrição:** Altera o FPS em jogos compatíveis (alguns necessitam de patchs adicionais [FPSLocker-Warehouse](https://github.com/masagrator/FPSLocker-Warehouse)).  
-**Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/FPSLocker)  
+**Desenvolvedor:** [dezem](https://github.com/dezem) [GitHub](https://github.com/dezem/Safe_Reboot)   
 
 **ovl-sysmodules**  
 **Descrição:** Gerenciador de módulos para ativar e desativar os módulos instalados.  
