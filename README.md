@@ -7,7 +7,7 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 1_sys-clk -------------------- v2.0.0 
 2_EdiZon --------------------- v1.0.8 
 3_Emuiibo -------------------- v1.1.1 
-4_StatusMonitor -------------- v1.0.4 
+4_StatusMonitor -------------- v1.1.2 
 5_ReverseNX-RT --------------- v2.0.0 
 6_MasterVolume --------------- v1.1.1 
 7_SysModules ----------------- v1.3.1 
@@ -19,7 +19,7 @@ Adicionado também alguns homebrews e complementos:
 ```sh 
 hbmenu ----------------------- v3.6.0 
 MissionControl --------------- v0.11.1 
-SaltyNX ---------------------- v0.7.4 
+SaltyNX ---------------------- v0.9.2 
 Reboot ----------------------- v1.2.1 
 sys-clk-manager -------------- v2.0.0 
 NX Activity Log -------------- v1.4.0 
