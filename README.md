@@ -4,12 +4,12 @@ Arquivos testados e compatíveis com FW 18.1.0 e AMS 1.7.1.
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
-1_sys-clk -------------------- v2.0.0 
+1_sys-clk -------------------- v2.0.1 
 2_EdiZon --------------------- v1.0.8 
 3_Emuiibo -------------------- v1.1.1 
-4_StatusMonitor -------------- v1.1.2 
+4_StatusMonitor -------------- v1.1.4 
 5_ReverseNX-RT --------------- v2.0.0 
-6_MasterVolume --------------- v1.1.1 
+6_MasterVolume --------------- v1.2.0 
 7_SysModules ----------------- v1.3.1 
 ovlmenu ---------------------- v1.2.3 
 nx-ovlloader ----------------- v1.0.7 
@@ -19,9 +19,9 @@ Adicionado também alguns homebrews e complementos:
 ```sh 
 hbmenu ----------------------- v3.6.0 
 MissionControl --------------- v0.11.1 
-SaltyNX ---------------------- v0.9.2 
+SaltyNX ---------------------- v0.9.4 
 Reboot ----------------------- v1.2.1 
-sys-clk-manager -------------- v2.0.0 
+sys-clk-manager -------------- v2.0.1 
 NX Activity Log -------------- v1.4.0 
 TegraExplorer ---------------- v4.1.1 
 ```
