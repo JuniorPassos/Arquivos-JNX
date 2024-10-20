@@ -18,16 +18,17 @@ nx-ovlloader ----------------- v1.0.7
 Adicionado também alguns homebrews e complementos:  
 ```sh 
 hbmenu ----------------------- v3.6.0 
-MissionControl --------------- v0.11.1 
+MissionControl --------------- v0.12.0
+sys-con ---------------------- v1.4.3 
 SaltyNX ---------------------- v0.9.4 
 Reboot ----------------------- v1.2.1 
 sys-clk-manager -------------- v2.0.1 
 NX Activity Log -------------- v1.4.0 
 TegraExplorer ---------------- v4.1.1 
 ```
-Os homebrews hbmenu, sys-clk-manager e NX Activity Log possuem suporte aos idiomas Inglês e Português do Brasil.  
+Os homebrews **hbmenu**, **sys-clk-manager** e **NX Activity Log** possuem suporte aos idiomas Inglês e Português do Brasil.  
 
-### 👨‍💻 
+## 👨‍💻 
 
 **Tesla-Menu**  (acesso do menu ZL+ZR+RS)  
 **Descrição:** Necessário para exibição e funcionamento dos módulos instalados.  
@@ -78,12 +79,16 @@ Os homebrews hbmenu, sys-clk-manager e NX Activity Log possuem suporte aos idiom
 **Desenvolvedor:** [switchbrew](https://github.com/switchbrew) [GitHub](https://github.com/switchbrew/nx-hbmenu)    
 
 **MissionControl**  
-**Descrição:** Conecte e use controles de outros consoles no seu Nintendo Switch via Bluetooth.  
+**Descrição:** Conecte e use controles via bluetooth de outros consoles no seu Nintendo Switch.  
 **Desenvolvedor:** [ndeadly](https://github.com/ndeadly) [GitHub](https://github.com/ndeadly/MissionControl)  
 
-### 📝  
-Agradecimentos ao [zdm65477730](https://github.com/zdm65477730) por fornecer o código fonte para o suporte ao multi-idioma.  
+**sys-con**  
+**Descrição:** Conecte e use controles USB de outros consoles no seu Nintendo Switch.  
+**Desenvolvedor:** [o0Zz](https://github.com/o0Zz) [GitHub](https://github.com/o0Zz/sys-con)  
+
+
+## 📝  
+Agradecimentos ao [zdm65477730](https://github.com/zdm65477730) por fornecer o código fonte para suporte multi-idioma aos módulos.  
 Agradecimentos à todos os desenvolvedores acima por seus respectivos softwares.  
 Arquivos recompilados e traduzidos para Português do Brasil por Junior Passos.  
-
 
