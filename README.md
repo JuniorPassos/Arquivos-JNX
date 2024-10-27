@@ -20,7 +20,7 @@ Adicionado também alguns homebrews e complementos:
 hbmenu ----------------------- v3.6.0 
 MissionControl --------------- v0.12.0
 sys-con ---------------------- v1.4.3 
-SaltyNX ---------------------- v0.9.4 
+SaltyNX ---------------------- v0.10.0 
 Reboot ----------------------- v1.2.1 
 sys-clk-manager -------------- v2.0.1 
 NX Activity Log -------------- v1.4.0 
