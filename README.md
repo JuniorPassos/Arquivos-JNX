@@ -55,7 +55,7 @@ Os homebrews **hbmenu**, **sys-clk-manager** e **NX Activity Log** possuem supor
 **Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/Status-Monitor-Overlay)  
 
 **ReverseNX-RT**  
-**Descrição:** Engana o sistema fazendo-o pensar que está no Modo Dock ao usar o modo portátil ou vice-versa com o auxílio do Salty-NX.  
+**Descrição:** Engana o sistema fazendo-o pensar que está no Modo Dock ao usar o modo portátil ou vice-versa com o auxílio do SaltyNX.  
 **Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/ReverseNX-RT)  
 
 **SaltyNX**  
