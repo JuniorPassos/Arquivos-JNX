@@ -59,8 +59,8 @@ Os homebrews **hbmenu**, **sys-clk-manager** e **NX Activity Log** possuem supor
 **Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/ReverseNX-RT)  
 
 **SaltyNX**  
-**Descrição:** Complemento essencial para o funcionamento de alguns módulos do sistema.
-**Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/SaltyNX)
+**Descrição:** Complemento essencial para o funcionamento de alguns módulos do sistema.  
+**Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/SaltyNX)  
 
 **MasterVolume**  
 **Descrição:** Potencialize ou ajuste o volume diretamente pelo controle do Switch mesmo quando conectado na Dock.  
