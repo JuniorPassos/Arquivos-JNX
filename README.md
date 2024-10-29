@@ -1,6 +1,6 @@
 ## Complementos e Módulos PT-BR para Atmosphère - Nintendo Switch  
 
-Arquivos testados e compatíveis com FW 18.1.0 / 19.0.0 e AMS 1.7.1 / 1.8.0.  
+Arquivos testados e compatíveis com FW 18.1.0 / 19.0.1 e AMS 1.7.1 / 1.8.0.  
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
