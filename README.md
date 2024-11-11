@@ -7,10 +7,11 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 1_sys-clk -------------------- v2.0.1 
 2_EdiZon --------------------- v1.0.9 
 3_Emuiibo -------------------- v1.1.1 
-4_StatusMonitor -------------- v1.1.6 
-5_ReverseNX-RT --------------- v2.0.0 
-6_MasterVolume --------------- v1.2.0 
-7_SysModules ----------------- v1.3.1 
+4_StatusMonitor -------------- v1.1.6
+5_FPSLocker ------------------ v2.0.3 
+6_ReverseNX-RT --------------- v2.0.0 
+7_MasterVolume --------------- v1.2.0 
+8_SysModules ----------------- v1.3.1 
 ovlmenu ---------------------- v1.2.3 
 nx-ovlloader ----------------- v1.0.7 
 ```
@@ -20,7 +21,7 @@ Adicionado também alguns homebrews e complementos:
 hbmenu ----------------------- v3.6.0 
 MissionControl --------------- v0.12.0
 sys-con ---------------------- v1.4.3 
-SaltyNX ---------------------- v1.0.3 
+SaltyNX ---------------------- v1.0.5 
 Reboot ----------------------- v1.2.1 
 sys-clk-manager -------------- v2.0.1 
 NX Activity Log -------------- v1.4.0 
@@ -51,8 +52,12 @@ Os homebrews **hbmenu**, **sys-clk-manager** e **NX Activity Log** possuem supor
 **Desenvolvedor:** [XorTroll](https://github.com/XorTroll) [GitHub](https://github.com/XorTroll/emuiibo)  
 
 **Status Monitor Overlay**  
-**Descrição:** Exibe diversas infos do hardware/sistema. Também pode exibir o FPS nos jogos usando em conjunto com o SaltyNX.  
+**Descrição:** Exibe diversas infos do hardware/sistema. Também pode exibir o FPS nos jogos com o auxílio do SaltyNX.  
 **Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/Status-Monitor-Overlay)  
+
+**FPSLocker**  
+**Descrição:** Permite definir taxas de atualização de tela e FPS personalizados nos jogos com o auxílio do SaltyNX.  
+**Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/FPSLocker)  
 
 **ReverseNX-RT**  
 **Descrição:** Engana o sistema fazendo-o pensar que está no Modo Dock ao usar o modo portátil ou vice-versa com o auxílio do SaltyNX.  
