@@ -7,27 +7,28 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 1_sys-clk -------------------- v2.0.1 
 2_EdiZon --------------------- v1.0.9 
 3_Emuiibo -------------------- v1.1.1 
-4_StatusMonitor -------------- v1.1.6
+4_StatusMonitor -------------- v1.1.6 
 5_FPSLocker ------------------ v2.0.3 
-6_ReverseNX-RT --------------- v2.0.0 
+6_ReverseNX-RT --------------- v2.1.0 
 7_MasterVolume --------------- v1.2.0 
-8_SysModules ----------------- v1.3.1 
+8_Fizeau --------------------- v2.8.1 
+9_SysModules ----------------- v1.3.1 
 ovlmenu ---------------------- v1.2.3 
-nx-ovlloader ----------------- v1.0.7 
 ```
 
 Adicionado também alguns homebrews e complementos:  
 ```sh 
 hbmenu ----------------------- v3.6.0 
-MissionControl --------------- v0.12.0
+nx-ovlloader ----------------- v1.0.7 
+MissionControl --------------- v0.12.0 
 sys-con ---------------------- v1.4.3 
-SaltyNX ---------------------- v1.0.6 
+SaltyNX ---------------------- v1.1.1 
 Reboot ----------------------- v1.2.1 
 sys-clk-manager -------------- v2.0.1 
-NX Activity Log -------------- v1.4.0 
+NX Activity Log -------------- v1.5.3 
 TegraExplorer ---------------- v4.2.0 
 ```
-Os homebrews **hbmenu**, **sys-clk-manager** e **NX Activity Log** possuem suporte aos idiomas Inglês e Português do Brasil.  
+Os homebrews **hbmenu**, **sys-clk-manager** e **NX Activity Log** também possuem suporte multi-idioma.  
 
 ## 👨‍💻 
 
@@ -61,31 +62,35 @@ Os homebrews **hbmenu**, **sys-clk-manager** e **NX Activity Log** possuem supor
 
 **ReverseNX-RT**  
 **Descrição:** Engana o sistema fazendo-o pensar que está no Modo Dock ao usar o modo portátil ou vice-versa com o auxílio do SaltyNX.  
-**Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/ReverseNX-RT)  
-
-**SaltyNX**  
-**Descrição:** Complemento essencial para o funcionamento de alguns módulos do sistema.  
-**Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/SaltyNX)  
+**Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/ReverseNX-RT)   
 
 **MasterVolume**  
 **Descrição:** Potencialize ou ajuste o volume diretamente pelo controle do Switch mesmo quando conectado na Dock.  
 **Desenvolvedor:** [averne](https://github.com/averne) [GitHub](https://github.com/averne/MasterVolume)  
 
-**NX Activity Log**  
-**Descrição:** Exibe informações mais precisas sobre suas atividades de jogos.  
-**Desenvolvedor:** [tallbl0nde](https://github.com/tallbl0nde) [GitHub](https://github.com/tallbl0nde/NX-Activity-Log)  
-
-**Reboot**  
-**Descrição:** Reinicie seu Nintendo Switch rapidamente (ideal para consoles modchip).  
-**Desenvolvedor:** [dezem](https://github.com/dezem) [GitHub](https://github.com/dezem/Safe_Reboot)   
+**Fizeau**  
+**Descrição:** Ajuste as cores da tela do seu Nintendo Switch como saturação, filtros entre outras funções.  
+**Desenvolvedor:** [averne](https://github.com/averne) [GitHub](https://github.com/averne/Fizeau)  
 
 **ovl-sysmodules**  
 **Descrição:** Gerenciador de módulos para ativar e desativar os módulos instalados.  
 **Desenvolvedor:** [WerWolv](https://github.com/WerWolv) [GitHub](https://github.com/WerWolv/ovl-sysmodules)  
 
+**SaltyNX**  
+**Descrição:** Complemento essencial para o funcionamento de alguns módulos do sistema.  
+**Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/SaltyNX) 
+
 **hbmenu**  
 **Descrição:** Ferramenta essencial no desbloqueio para acessar todos os homebrews.  
-**Desenvolvedor:** [switchbrew](https://github.com/switchbrew) [GitHub](https://github.com/switchbrew/nx-hbmenu)    
+**Desenvolvedor:** [switchbrew](https://github.com/switchbrew) [GitHub](https://github.com/switchbrew/nx-hbmenu)   
+
+**NX Activity Log**  
+**Descrição:** Exibe informações mais precisas sobre suas atividades de jogos.  
+**Desenvolvedores:** [tallbl0nde](https://github.com/tallbl0nde) e [zdm65477730](https://github.com/zdm65477730) [GitHub](https://github.com/zdm65477730/NX-Activity-Log))  
+
+**Reboot**  
+**Descrição:** Reinicie seu Nintendo Switch rapidamente (ideal para consoles modchip).  
+**Desenvolvedor:** [dezem](https://github.com/dezem) [GitHub](https://github.com/dezem/Safe_Reboot)    
 
 **MissionControl**  
 **Descrição:** Conecte e use controles via bluetooth de outros consoles no seu Nintendo Switch.  
