@@ -34,71 +34,71 @@ Os homebrews **hbmenu**, **sys-clk-manager** e **NX Activity Log** também possu
 
 **Tesla-Menu**  (acesso do menu ZL+ZR+RS)  
 **Descrição:** Necessário para exibição e funcionamento dos módulos instalados.  
-**Desenvolvedor:** [WerWolv](https://github.com/WerWolv) [GitHub](https://github.com/WerWolv/Tesla-Menu)  
+**Desenvolvedor:** [WerWolv](https://github.com/WerWolv) - [GitHub](https://github.com/WerWolv/Tesla-Menu)  
 
 **nx-ovlloader**  
 **Descrição:** Componente necessário para o funcionamento do Tesla Menu.  
-**Desenvolvedor:** [WerWolv](https://github.com/WerWolv) [GitHub](https://github.com/WerWolv/nx-ovlloader)  
+**Desenvolvedor:** [WerWolv](https://github.com/WerWolv) - [GitHub](https://github.com/WerWolv/nx-ovlloader)  
 
 **sys-clk manager**  
 **Descrição:** Permite gerenciar e personalizar as frequências da CPU, GPU e MEM do console.  
-**Desenvolvedor:** [jope82](https://github.com/jope82) [GitHub](https://github.com/jope82/sys-clk-uncapped-gpu-and-other-extras)  
+**Desenvolvedor:** [jope82](https://github.com/jope82) - [GitHub](https://github.com/jope82/sys-clk-uncapped-gpu-and-other-extras)  
 
 **EdiZon Overlay**  
 **Descrição:** Ferramenta para aplicar trapaças nos jogos instalados no console.  
-**Desenvolvedores:** [proferabg](https://github.com/proferabg) [GitHub](https://github.com/proferabg/EdiZon-Overlay)  
+**Desenvolvedores:** [proferabg](https://github.com/proferabg) - [GitHub](https://github.com/proferabg/EdiZon-Overlay)  
 
 **Emuiibo**  
 **Descrição:** Gerenciamento e emulação virtual dos amiibos. Os amiibos precisam ser gerados usando o Emuiigen.  
-**Desenvolvedor:** [XorTroll](https://github.com/XorTroll) [GitHub](https://github.com/XorTroll/emuiibo)  
+**Desenvolvedor:** [XorTroll](https://github.com/XorTroll) - [GitHub](https://github.com/XorTroll/emuiibo)  
 
 **Status Monitor Overlay**  
 **Descrição:** Exibe diversas infos do hardware/sistema. Também pode exibir o FPS nos jogos com o auxílio do SaltyNX.  
-**Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/Status-Monitor-Overlay)  
+**Desenvolvedor:** [masagrator](https://github.com/masagrator) - [GitHub](https://github.com/masagrator/Status-Monitor-Overlay)  
 
 **FPSLocker**  
 **Descrição:** Permite definir taxas de atualização de tela e FPS personalizados nos jogos com o auxílio do SaltyNX.  
-**Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/FPSLocker)  
+**Desenvolvedor:** [masagrator](https://github.com/masagrator) - [GitHub](https://github.com/masagrator/FPSLocker)  
 
 **ReverseNX-RT**  
 **Descrição:** Engana o sistema fazendo-o pensar que está no Modo Dock ao usar o modo portátil ou vice-versa com o auxílio do SaltyNX.  
-**Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/ReverseNX-RT)   
+**Desenvolvedor:** [masagrator](https://github.com/masagrator) - [GitHub](https://github.com/masagrator/ReverseNX-RT)   
 
 **MasterVolume**  
 **Descrição:** Potencialize ou ajuste o volume diretamente pelo controle do Switch mesmo quando conectado na Dock.  
-**Desenvolvedor:** [averne](https://github.com/averne) [GitHub](https://github.com/averne/MasterVolume)  
+**Desenvolvedor:** [averne](https://github.com/averne) - [GitHub](https://github.com/averne/MasterVolume)  
 
 **Fizeau**  
 **Descrição:** Ajuste as cores da tela do seu Nintendo Switch como saturação, filtros entre outras funções.  
-**Desenvolvedor:** [averne](https://github.com/averne) [GitHub](https://github.com/averne/Fizeau)  
+**Desenvolvedor:** [averne](https://github.com/averne) - [GitHub](https://github.com/averne/Fizeau)  
 
 **ovl-sysmodules**  
 **Descrição:** Gerenciador de módulos para ativar e desativar os módulos instalados.  
-**Desenvolvedor:** [WerWolv](https://github.com/WerWolv) [GitHub](https://github.com/WerWolv/ovl-sysmodules)  
+**Desenvolvedor:** [WerWolv](https://github.com/WerWolv) - [GitHub](https://github.com/WerWolv/ovl-sysmodules)  
 
 **SaltyNX**  
 **Descrição:** Complemento essencial para o funcionamento de alguns módulos do sistema.  
-**Desenvolvedor:** [masagrator](https://github.com/masagrator) [GitHub](https://github.com/masagrator/SaltyNX) 
+**Desenvolvedor:** [masagrator](https://github.com/masagrator) - [GitHub](https://github.com/masagrator/SaltyNX) 
 
 **hbmenu**  
 **Descrição:** Ferramenta essencial no desbloqueio para acessar todos os homebrews.  
-**Desenvolvedor:** [switchbrew](https://github.com/switchbrew) [GitHub](https://github.com/switchbrew/nx-hbmenu)   
+**Desenvolvedor:** [switchbrew](https://github.com/switchbrew) - [GitHub](https://github.com/switchbrew/nx-hbmenu)   
 
 **NX Activity Log**  
 **Descrição:** Exibe informações mais precisas sobre suas atividades de jogos.  
-**Desenvolvedores:** [tallbl0nde](https://github.com/tallbl0nde) e [zdm65477730](https://github.com/zdm65477730) [GitHub](https://github.com/zdm65477730/NX-Activity-Log))  
+**Desenvolvedores:** [tallbl0nde](https://github.com/tallbl0nde) e [zdm65477730](https://github.com/zdm65477730) - [GitHub](https://github.com/zdm65477730/NX-Activity-Log)  
 
 **Reboot**  
 **Descrição:** Reinicie seu Nintendo Switch rapidamente (ideal para consoles modchip).  
-**Desenvolvedor:** [dezem](https://github.com/dezem) [GitHub](https://github.com/dezem/Safe_Reboot)    
+**Desenvolvedor:** [dezem](https://github.com/dezem) - [GitHub](https://github.com/dezem/Safe_Reboot)    
 
 **MissionControl**  
 **Descrição:** Conecte e use controles via bluetooth de outros consoles no seu Nintendo Switch.  
-**Desenvolvedor:** [ndeadly](https://github.com/ndeadly) [GitHub](https://github.com/ndeadly/MissionControl)  
+**Desenvolvedor:** [ndeadly](https://github.com/ndeadly) - [GitHub](https://github.com/ndeadly/MissionControl)  
 
 **sys-con**  
 **Descrição:** Conecte e use controles USB de outros consoles no seu Nintendo Switch.  
-**Desenvolvedor:** [o0Zz](https://github.com/o0Zz) [GitHub](https://github.com/o0Zz/sys-con)  
+**Desenvolvedor:** [o0Zz](https://github.com/o0Zz) - [GitHub](https://github.com/o0Zz/sys-con)  
 
 
 ## 📝  
