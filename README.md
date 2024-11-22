@@ -104,5 +104,5 @@ Os homebrews **hbmenu**, **sys-clk-manager** e **NX Activity Log** também possu
 ## 📝  
 Agradecimentos ao [zdm65477730](https://github.com/zdm65477730) por fornecer o código fonte para suporte multi-idioma aos módulos.  
 Agradecimentos à todos os desenvolvedores acima por seus respectivos softwares.  
-Arquivos recompilados e traduzidos para Português do Brasil por Junior Passos.  
+Arquivos modificados, recompilados e traduzidos para Português do Brasil por Junior Passos.  
 
