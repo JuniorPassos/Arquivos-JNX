@@ -21,11 +21,11 @@ Adicionado também alguns homebrews e complementos:
 hbmenu ----------------------- v3.6.0 
 nx-ovlloader ----------------- v1.0.7 
 MissionControl --------------- v0.12.0 
-sys-con ---------------------- v1.4.3 
+sys-con ---------------------- v1.5.1 
 SaltyNX ---------------------- v1.2.0 
 Reboot ----------------------- v1.2.1 
 sys-clk-manager -------------- v2.0.1 
-NX Activity Log -------------- v1.5.3 
+NX Activity Log -------------- v1.5.5 
 TegraExplorer ---------------- v4.2.0 
 ```
 Os homebrews **hbmenu**, **sys-clk-manager** e **NX Activity Log** também possuem suporte multi-idioma.  
