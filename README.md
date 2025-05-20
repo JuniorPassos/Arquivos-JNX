@@ -86,7 +86,7 @@ Os homebrews **hbmenu**, **sphaira**, **sys-clk-manager** e **NX Activity Log** 
 **Desenvolvedor:** [switchbrew](https://github.com/switchbrew) - [GitHub](https://github.com/switchbrew/nx-hbmenu)   
 
 **sphaira**  
-**Descrição::** Uma alternativa ao hbmenu porém com diversas ferramentas avançadas.  
+**Descrição:** Uma alternativa ao hbmenu porém com diversas ferramentas avançadas.  
 **Desenvolvedor:** [ITotalJustice](https://github.com/ITotalJustice) - [GitHub](https://github.com/ITotalJustice/sphaira)  
 
 **NX Activity Log**  
