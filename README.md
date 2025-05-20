@@ -1,16 +1,16 @@
 ## Complementos e Módulos PT-BR para Atmosphère - Nintendo Switch  
 
-Arquivos testados e compatíveis com FW 19.0.1 e AMS 1.8.0.  
+Arquivos testados e compatíveis com AMS 1.8.0 e AMS 1.9.0.  
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
 1_sys-clk -------------------- v2.0.1 
 2_EdiZon --------------------- v1.0.9 
 3_Emuiibo -------------------- v1.1.1 
-4_StatusMonitor -------------- v1.1.7 
-5_FPSLocker ------------------ v2.1.0 
+4_StatusMonitor -------------- v1.1.8 
+5_FPSLocker ------------------ v2.1.2 
 6_ReverseNX-RT --------------- v2.1.0 
-7_MasterVolume --------------- v1.2.0 
+7_MasterVolume --------------- v1.2.1 
 8_Fizeau --------------------- v2.8.1 
 9_SysModules ----------------- v1.3.1 
 ovlmenu ---------------------- v1.2.3 
@@ -20,15 +20,16 @@ Adicionado também alguns homebrews e complementos:
 ```sh 
 hbmenu ----------------------- v3.6.0 
 nx-ovlloader ----------------- v1.0.7 
-MissionControl --------------- v0.12.0 
-sys-con ---------------------- v1.5.1 
-SaltyNX ---------------------- v1.2.0 
+MissionControl --------------- v0.13.1 
+sys-con ---------------------- v1.5.2 
+SaltyNX ---------------------- v1.2.3
+sphaira ---------------------- v0.10.2 
 Reboot ----------------------- v1.2.1 
 sys-clk-manager -------------- v2.0.1 
-NX Activity Log -------------- v1.5.5 
+NX Activity Log -------------- v1.5.7 
 TegraExplorer ---------------- v4.2.0 
 ```
-Os homebrews **hbmenu**, **sys-clk-manager** e **NX Activity Log** também possuem suporte multi-idioma.  
+Os homebrews **hbmenu**, **sphaira**, **sys-clk-manager** e **NX Activity Log** também possuem suporte multi-idioma.  
 
 ## 👨‍💻 
 
@@ -83,6 +84,10 @@ Os homebrews **hbmenu**, **sys-clk-manager** e **NX Activity Log** também possu
 **hbmenu**  
 **Descrição:** Ferramenta essencial no desbloqueio para acessar todos os homebrews.  
 **Desenvolvedor:** [switchbrew](https://github.com/switchbrew) - [GitHub](https://github.com/switchbrew/nx-hbmenu)   
+
+**sphaira**
+**Descrição::** Uma alternativa ao hbmenu porém com diversas ferramentas avançadas.
+**Desenvolvedor:** [ITotalJustice](https://github.com/ITotalJustice) - [GitHub](https://github.com/ITotalJustice/sphaira) 
 
 **NX Activity Log**  
 **Descrição:** Exibe informações mais precisas sobre suas atividades de jogos.  
