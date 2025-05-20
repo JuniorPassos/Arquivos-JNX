@@ -79,15 +79,15 @@ Os homebrews **hbmenu**, **sphaira**, **sys-clk-manager** e **NX Activity Log** 
 
 **SaltyNX**  
 **Descrição:** Complemento essencial para o funcionamento de alguns módulos do sistema.  
-**Desenvolvedor:** [masagrator](https://github.com/masagrator) - [GitHub](https://github.com/masagrator/SaltyNX) 
+**Desenvolvedor:** [masagrator](https://github.com/masagrator) - [GitHub](https://github.com/masagrator/SaltyNX)  
 
 **hbmenu**  
 **Descrição:** Ferramenta essencial no desbloqueio para acessar todos os homebrews.  
 **Desenvolvedor:** [switchbrew](https://github.com/switchbrew) - [GitHub](https://github.com/switchbrew/nx-hbmenu)   
 
-**sphaira**
-**Descrição::** Uma alternativa ao hbmenu porém com diversas ferramentas avançadas.
-**Desenvolvedor:** [ITotalJustice](https://github.com/ITotalJustice) - [GitHub](https://github.com/ITotalJustice/sphaira) 
+**sphaira**  
+**Descrição::** Uma alternativa ao hbmenu porém com diversas ferramentas avançadas.  
+**Desenvolvedor:** [ITotalJustice](https://github.com/ITotalJustice) - [GitHub](https://github.com/ITotalJustice/sphaira)  
 
 **NX Activity Log**  
 **Descrição:** Exibe informações mais precisas sobre suas atividades de jogos.  
@@ -95,7 +95,7 @@ Os homebrews **hbmenu**, **sphaira**, **sys-clk-manager** e **NX Activity Log** 
 
 **Reboot**  
 **Descrição:** Reinicie seu Nintendo Switch rapidamente (ideal para consoles modchip).  
-**Desenvolvedor:** [dezem](https://github.com/dezem) - [GitHub](https://github.com/dezem/Safe_Reboot)    
+**Desenvolvedor:** [dezem](https://github.com/dezem) - [GitHub](https://github.com/dezem/Safe_Reboot)  
 
 **MissionControl**  
 **Descrição:** Conecte e use controles via bluetooth de outros consoles no seu Nintendo Switch.  
