@@ -7,8 +7,8 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 1_sys-clk -------------------- v2.0.1 
 2_EdiZon --------------------- v1.0.9 
 3_Emuiibo -------------------- v1.1.1 
-4_StatusMonitor -------------- v1.1.8 
-5_FPSLocker ------------------ v2.1.2 
+4_StatusMonitor -------------- v1.1.9 
+5_FPSLocker ------------------ v2.1.3 
 6_ReverseNX-RT --------------- v2.1.0 
 7_MasterVolume --------------- v1.2.1 
 8_Fizeau --------------------- v2.8.1 
@@ -22,8 +22,8 @@ hbmenu ----------------------- v3.6.0
 nx-ovlloader ----------------- v1.0.7 
 MissionControl --------------- v0.13.1 
 sys-con ---------------------- v1.5.2 
-SaltyNX ---------------------- v1.2.3
-sphaira ---------------------- v0.10.2 
+SaltyNX ---------------------- v1.2.5
+sphaira ---------------------- v0.10.3 
 Reboot ----------------------- v1.2.1 
 sys-clk-manager -------------- v2.0.1 
 NX Activity Log -------------- v1.5.7 
