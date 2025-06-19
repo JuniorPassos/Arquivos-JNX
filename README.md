@@ -5,14 +5,13 @@ Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Bra
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
 1_sys-clk -------------------- v2.0.1 
-2_EdiZon --------------------- v1.0.9 
+2_EdiZon --------------------- v1.0.10 
 3_Emuiibo -------------------- v1.1.1 
 4_StatusMonitor -------------- v1.1.9 
 5_FPSLocker ------------------ v2.1.5 
 6_ReverseNX-RT --------------- v2.1.0 
 7_MasterVolume --------------- v1.2.1 
-8_Fizeau --------------------- v2.8.1 
-9_SysModules ----------------- v1.3.1 
+8_SysModules ----------------- v1.3.1 
 ovlmenu ---------------------- v1.2.3 
 ```
 
@@ -23,7 +22,7 @@ nx-ovlloader ----------------- v1.0.7
 MissionControl --------------- v0.13.2 
 sys-con ---------------------- v1.5.2 
 SaltyNX ---------------------- v1.2.7
-sphaira ---------------------- v0.11.3 
+sphaira ---------------------- v0.13.3 
 Reboot ----------------------- v1.2.1 
 sys-clk-manager -------------- v2.0.1 
 NX Activity Log -------------- v1.5.7 
@@ -68,10 +67,6 @@ Os homebrews **hbmenu**, **sphaira**, **sys-clk-manager** e **NX Activity Log** 
 **MasterVolume**  
 **Descrição:** Potencialize ou ajuste o volume diretamente pelo controle do Switch mesmo quando conectado na Dock.  
 **Desenvolvedor:** [averne](https://github.com/averne) - [GitHub](https://github.com/averne/MasterVolume)  
-
-**Fizeau**  
-**Descrição:** Ajuste as cores da tela do seu Nintendo Switch como saturação, filtros entre outras funções.  
-**Desenvolvedor:** [averne](https://github.com/averne) - [GitHub](https://github.com/averne/Fizeau)  
 
 **ovl-sysmodules**  
 **Descrição:** Gerenciador de módulos para ativar e desativar os módulos instalados.  
