@@ -20,7 +20,7 @@ Adicionado também alguns homebrews e complementos:
 hbmenu ----------------------- v3.6.0 
 nx-ovlloader ----------------- v1.0.7 
 MissionControl --------------- v0.13.2 
-sys-con ---------------------- v1.5.2 
+sys-con ---------------------- v1.5.4 
 SaltyNX ---------------------- v1.2.7
 sphaira ---------------------- v0.13.3 
 Reboot ----------------------- v1.2.1 
