@@ -97,7 +97,7 @@ Os homebrews **sphaira**, **sys-clk-manager** e **NX Activity Log** também poss
 
 
 ## 📝  
-Agradecimentos ao [b][zdm65477730][/b](https://github.com/zdm65477730) por fornecer o código fonte para suporte multi-idioma de alguns módulos.  
+Agradecimentos ao [zdm65477730](https://github.com/zdm65477730) por fornecer o código fonte para suporte multi-idioma de alguns módulos.  
 Agradecimentos ao [ppkantorski](https://github.com/ppkantorski) por seu grande esforço em trabalhar constantemente no ultrahand e seus complementos.  
 Agradecimentos à todos os desenvolvedores acima por seus respectivos softwares.  
 Arquivos modificados, recompilados e traduzidos para Português do Brasil por Junior Passos.  
