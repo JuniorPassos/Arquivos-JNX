@@ -24,7 +24,8 @@ SaltyNX ---------------------- v1.4.7
 sphaira ---------------------- v0.13.3 
 Reboot ----------------------- v1.2.1  
 NX Activity Log -------------- v1.5.7 
-TegraExplorer ---------------- v4.2.0 
+TegraExplorer ---------------- v4.2.0
+OC Switchcraft EOS ----------- v1.6.7
 ```
 Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idioma.  
 
@@ -34,7 +35,7 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 **Descrição:** Necessário para exibição e funcionamento dos módulos instalados.  
 **Desenvolvedor:** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/Ultrahand-Overlay)  
 
-**nx-ovlloader+**  
+**nx-ovlloader**  
 **Descrição:** Componente necessário para o funcionamento do Tesla Menu.  
 **Desenvolvedor:** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/nx-ovlloader)  
 
@@ -46,7 +47,7 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 **Descrição:** Ferramenta para aplicar trapaças nos jogos instalados no console.  
 **Desenvolvedores:** [proferabg](https://github.com/proferabg) - [GitHub](https://github.com/proferabg/EdiZon-Overlay)  
 
-**Emuiibo**  
+**Emuiibo Overlay**  
 **Descrição:** Gerenciamento e emulação virtual dos amiibos. Os amiibos precisam ser gerados usando o Emuiigen.  
 **Desenvolvedor:** [XorTroll](https://github.com/XorTroll) - [GitHub](https://github.com/XorTroll/emuiibo)  
 
@@ -54,19 +55,19 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 **Descrição:** Exibe diversas infos do hardware/sistema. Também pode exibir o FPS nos jogos com o auxílio do SaltyNX.  
 **Desenvolvedor:** [masagrator](https://github.com/masagrator) - [GitHub](https://github.com/masagrator/Status-Monitor-Overlay)  
 
-**FPSLocker**  
+**FPSLocker Overlay**  
 **Descrição:** Permite definir taxas de atualização de tela e FPS personalizados nos jogos com o auxílio do SaltyNX.  
 **Desenvolvedor:** [masagrator](https://github.com/masagrator) - [GitHub](https://github.com/masagrator/FPSLocker)  
 
-**ReverseNX-RT**  
+**ReverseNX-RT Overlay**  
 **Descrição:** Engana o sistema fazendo-o pensar que está no Modo Dock ao usar o modo portátil ou vice-versa com o auxílio do SaltyNX.  
 **Desenvolvedor:** [masagrator](https://github.com/masagrator) - [GitHub](https://github.com/masagrator/ReverseNX-RT)   
 
-**MasterVolume**  
+**MasterVolume Overlay**  
 **Descrição:** Potencialize ou ajuste o volume diretamente pelo controle do Switch mesmo quando conectado na Dock.  
 **Desenvolvedor:** [averne](https://github.com/averne) - [GitHub](https://github.com/averne/MasterVolume)  
 
-**ovl-sysmodules**  
+**SysModules Overlay**  
 **Descrição:** Gerenciador de módulos para ativar e desativar os módulos instalados.  
 **Desenvolvedor:** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/ovl-sysmodules)  
 
@@ -93,6 +94,10 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 **sys-con**  
 **Descrição:** Conecte e use controles USB de outros consoles no seu Nintendo Switch.  
 **Desenvolvedor:** [o0Zz](https://github.com/o0Zz) - [GitHub](https://github.com/o0Zz/sys-con)  
+
+**OC Switchcraft EOS**  
+**Descrição:** Arquivos complementares para gerenciar overclock de forma mais detalhada no seu Nintendo Switch.  
+**Desenvolvedor:** [halop](https://github.com/halop/) - [GitHub](https://github.com/halop/OC-Switchcraft-EOS)  
 
 
 ## 📝  
