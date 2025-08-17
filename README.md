@@ -1,33 +1,32 @@
 ## Complementos e Módulos PT-BR para Atmosphère - Nintendo Switch  
 
-Arquivos testados e compatíveis com AMS 1.9.1.  
+Arquivos testados e compatíveis com AMS 1.9.3.  
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
-1_sys-clk -------------------- v2.0.1+r10 
+1_sys-clk -------------------- v2.0.1+r11 
 2_EdiZon --------------------- v1.0.10 
 3_Emuiibo -------------------- v1.1.1 
 4_StatusMonitor -------------- v1.2.1 
 5_FPSLocker ------------------ v2.4.0 
 6_ReverseNX-RT --------------- v2.2.0 
 7_MasterVolume --------------- v1.2.1 
-8_SysModules ----------------- v1.3.1 
-ovlmenu (ultrahand) ---------- v2.0.0 
+8_SysModules ----------------- v1.3.8 
+ovlmenu (ultrahand) ---------- v2.0.1 
 ```
 
 Adicionado também alguns homebrews e complementos:  
 ```sh 
-nx-ovlloader+ ---------------- v1.1.1 
+nx-ovlloader ----------------- v1.1.1 
 MissionControl --------------- v0.13.4 
 sys-con ---------------------- v1.5.4 
-SaltyNX ---------------------- v1.4.5
+SaltyNX ---------------------- v1.4.7
 sphaira ---------------------- v0.13.3 
-Reboot ----------------------- v1.2.1 
-sys-clk-manager -------------- v2.0.1 
+Reboot ----------------------- v1.2.1  
 NX Activity Log -------------- v1.5.7 
 TegraExplorer ---------------- v4.2.0 
 ```
-Os homebrews **sphaira**, **sys-clk-manager** e **NX Activity Log** também possuem suporte multi-idioma.  
+Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idioma.  
 
 ## 👨‍💻 
 
@@ -69,7 +68,7 @@ Os homebrews **sphaira**, **sys-clk-manager** e **NX Activity Log** também poss
 
 **ovl-sysmodules**  
 **Descrição:** Gerenciador de módulos para ativar e desativar os módulos instalados.  
-**Desenvolvedor:** [WerWolv](https://github.com/WerWolv) - [GitHub](https://github.com/WerWolv/ovl-sysmodules)  
+**Desenvolvedor:** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/ovl-sysmodules)  
 
 **SaltyNX**  
 **Descrição:** Complemento essencial para o funcionamento de alguns módulos do sistema.  
