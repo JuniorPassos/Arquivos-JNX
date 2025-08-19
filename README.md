@@ -37,11 +37,11 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 
 **nx-ovlloader**  
 **Descrição:** Componente necessário para o funcionamento do Tesla Menu.  
-**Desenvolvedor:** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/nx-ovlloader)  
+**Desenvolvedor (fork):** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/nx-ovlloader)  
 
 **sys-clk Overlay**  
 **Descrição:** Permite gerenciar e personalizar as frequências da CPU, GPU e MEM do console.  
-**Desenvolvedor:** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/sys-clk)  
+**Desenvolvedor (fork):** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/sys-clk)  
 
 **EdiZon Overlay**  
 **Descrição:** Ferramenta para aplicar trapaças nos jogos instalados no console.  
@@ -69,7 +69,7 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 
 **SysModules Overlay**  
 **Descrição:** Gerenciador de módulos para ativar e desativar os módulos instalados.  
-**Desenvolvedor:** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/ovl-sysmodules)  
+**Desenvolvedor (fork):** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/ovl-sysmodules)  
 
 **SaltyNX**  
 **Descrição:** Complemento essencial para o funcionamento de alguns módulos do sistema.  
