@@ -7,7 +7,7 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 1_sys-clk -------------------- v2.0.1+r11 
 2_EdiZon --------------------- v1.0.10 
 3_Emuiibo -------------------- v1.1.1 
-4_StatusMonitor -------------- v1.2.1 
+4_StatusMonitor -------------- v1.2.2 
 5_FPSLocker ------------------ v2.4.0 
 6_ReverseNX-RT --------------- v2.2.0 
 7_MasterVolume --------------- v1.2.1 
@@ -18,14 +18,14 @@ ovlmenu (ultrahand) ---------- v2.0.1
 Adicionado também alguns homebrews e complementos:  
 ```sh 
 nx-ovlloader ----------------- v1.1.1 
-MissionControl --------------- v0.13.4 
+MissionControl --------------- v0.13.5 
 sys-con ---------------------- v1.5.4 
-SaltyNX ---------------------- v1.4.7
+SaltyNX ---------------------- v1.4.8
 sphaira ---------------------- v0.13.3 
 Reboot ----------------------- v1.2.1  
 NX Activity Log -------------- v1.5.7 
 TegraExplorer ---------------- v4.2.0
-OC Switchcraft EOS ----------- v1.6.7
+OC Switchcraft EOS ----------- v1.6.8
 ```
 Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idioma.  
 
