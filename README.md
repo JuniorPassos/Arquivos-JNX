@@ -8,11 +8,11 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 2_EdiZon --------------------- v1.0.10 
 3_Emuiibo -------------------- v1.1.1 
 4_StatusMonitor -------------- v1.2.2 
-5_FPSLocker ------------------ v2.4.0 
+5_FPSLocker ------------------ v3.0.1 
 6_ReverseNX-RT --------------- v2.2.0 
 7_MasterVolume --------------- v1.2.1 
 8_SysModules ----------------- v1.3.8 
-ovlmenu (ultrahand) ---------- v2.0.1 
+ovlmenu (ultrahand) ---------- v2.1.0 
 ```
 
 Adicionado também alguns homebrews e complementos:  
@@ -20,7 +20,7 @@ Adicionado também alguns homebrews e complementos:
 nx-ovlloader ----------------- v1.1.1 
 MissionControl --------------- v0.13.5 
 sys-con ---------------------- v1.5.4 
-SaltyNX ---------------------- v1.4.8
+SaltyNX ---------------------- v1.5.2
 sphaira ---------------------- v0.13.3 
 Reboot ----------------------- v1.2.1  
 NX Activity Log -------------- v1.5.7 
