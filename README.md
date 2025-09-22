@@ -4,15 +4,15 @@ Arquivos testados e compatíveis com AMS 1.9.4.
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
-1_sys-clk -------------------- v2.0.1+r11 
+1_sys-clk -------------------- v2.0.1+r12 
 2_EdiZon --------------------- v1.0.10 
 3_Emuiibo -------------------- v1.1.1 
 4_StatusMonitor -------------- v1.2.2 
 5_FPSLocker ------------------ v3.0.1 
 6_ReverseNX-RT --------------- v2.2.0 
 7_MasterVolume --------------- v1.2.1 
-8_SysModules ----------------- v1.3.8 
-ovlmenu (ultrahand) ---------- v2.1.0 
+8_SysModules ----------------- v1.3.9 
+ovlmenu (ultrahand) ---------- v2.1.1 
 ```
 
 Adicionado também alguns homebrews e complementos:  
