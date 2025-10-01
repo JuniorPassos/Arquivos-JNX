@@ -12,7 +12,7 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 6_ReverseNX-RT --------------- v2.2.0 
 7_MasterVolume --------------- v1.2.1 
 8_SysModules ----------------- v1.3.9 
-ovlmenu (ultrahand) ---------- v2.1.2 
+ovlmenu (ultrahand) ---------- v2.1.3 
 ```
 
 Adicionado também alguns homebrews e complementos:  
