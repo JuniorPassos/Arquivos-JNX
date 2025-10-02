@@ -4,7 +4,7 @@ Arquivos testados e compatíveis com AMS 1.9.5.
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
-1_sys-clk -------------------- v2.0.1+r12 
+1_sys-clk -------------------- v2.0.1+r13 
 2_EdiZon --------------------- v1.0.10 
 3_Emuiibo -------------------- v1.1.1 
 4_StatusMonitor -------------- v1.2.2 
