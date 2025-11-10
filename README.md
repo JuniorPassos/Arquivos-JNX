@@ -54,7 +54,7 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 
 **Status Monitor Overlay**  
 **Descrição:** Exibe diversas infos do hardware/sistema. Também pode exibir o FPS nos jogos com o auxílio do SaltyNX.  
-**Desenvolvedor:** [masagrator](https://github.com/masagrator) - [GitHub](https://github.com/masagrator/Status-Monitor-Overlay)  
+**Desenvolvedor:** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/Status-Monitor-Overlay)  
 
 **FPSLocker Overlay**  
 **Descrição:** Permite definir taxas de atualização de tela e FPS personalizados nos jogos com o auxílio do SaltyNX.  
