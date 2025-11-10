@@ -84,7 +84,7 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 **Descrição:** Exibe informações mais precisas sobre suas atividades de jogos.  
 **Desenvolvedores:** [tallbl0nde](https://github.com/tallbl0nde) e [zdm65477730](https://github.com/zdm65477730) - [GitHub](https://github.com/zdm65477730/NX-Activity-Log)  
 
-** NX Screen-Uploader**  
+**NX Screen-Uploader**  
 **Descrição:** Envie capturas de tela (imagens e vídeos curtos) do Nintendo Switch diretamente para o Telegram.  
 **Desenvolvedores:** [sakarie9](https://github.com/sakarie9) - [Github](https://github.com/sakarie9/NX-ScreenUploader)
 
