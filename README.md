@@ -4,10 +4,10 @@ Arquivos testados e compatíveis com AMS 1.9.5.
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
-1_sys-clk -------------------- v2.0.1+r15 
+1_sys-clk -------------------- v2.0.1+r16 
 2_EdiZon --------------------- v1.0.11 
 3_Emuiibo -------------------- v1.1.1 
-4_StatusMonitor -------------- v1.3.1+r1 
+4_StatusMonitor -------------- v1.3.1+r2 
 5_FPSLocker ------------------ v3.0.6 
 6_ReverseNX-RT --------------- v2.2.0 
 7_MasterVolume --------------- v1.2.1 
@@ -24,7 +24,7 @@ SaltyNX ---------------------- v1.5.9
 sphaira ---------------------- v0.13.3 
 Reboot ----------------------- v1.2.1  
 NX Activity Log -------------- v1.5.7
-NX Screen-Uploader ----------- v0.1.2  
+NX Screen-Uploader ----------- v0.1.3  
 TegraExplorer ---------------- v4.2.0
 OC Switchcraft EOS ----------- v1.6.9
 ```
