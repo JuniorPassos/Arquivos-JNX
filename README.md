@@ -4,29 +4,28 @@ Arquivos testados e compatíveis com AMS 1.9.5.
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
-1_sys-clk -------------------- v2.0.1+r16 
-2_EdiZon --------------------- v1.0.11 
+1_sys-clk -------------------- v2.0.1+r18 
+2_EdiZon --------------------- v1.0.13 
 3_Emuiibo -------------------- v1.1.1 
-4_StatusMonitor -------------- v1.3.1+r2 
-5_FPSLocker ------------------ v3.0.6 
+4_StatusMonitor -------------- v1.3.2+r1 
+5_FPSLocker ------------------ v3.1.0 
 6_ReverseNX-RT --------------- v2.2.0 
-7_MasterVolume --------------- v1.2.1 
-8_SysModules ----------------- v1.4.2 
-ovlmenu (ultrahand) ---------- v2.1.7 
+7_MasterVolume --------------- v1.2.2 
+8_SysModules ----------------- v1.4.4 
+ovlmenu (ultrahand) ---------- v2.2.0 
 ```
 
 Adicionado também alguns homebrews e complementos:  
 ```sh 
-nx-ovlloader ----------------- v1.1.1 
-MissionControl --------------- v0.13.6 
-sys-con ---------------------- v1.5.4 
-SaltyNX ---------------------- v1.5.9
-sphaira ---------------------- v0.13.3 
-Reboot ----------------------- v1.2.1  
-NX Activity Log -------------- v1.5.7
-NX Screen-Uploader ----------- v0.1.3  
+nx-ovlloader ----------------- v2.0.0 
+MissionControl --------------- v0.14.0 
+sys-con ---------------------- v1.6.0 
+SaltyNX ---------------------- v1.6.2
+sphaira ---------------------- v1.0.0 
+Reboot ----------------------- v1.2.2  
+NX Activity Log -------------- v1.5.8 
 TegraExplorer ---------------- v4.2.0
-OC Switchcraft EOS ----------- v1.6.9
+OC Switchcraft EOS ----------- v1.7.0
 ```
 Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idioma.  
 
@@ -83,10 +82,6 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 **NX Activity Log**  
 **Descrição:** Exibe informações mais precisas sobre suas atividades de jogos.  
 **Desenvolvedores:** [tallbl0nde](https://github.com/tallbl0nde) e [zdm65477730](https://github.com/zdm65477730) - [GitHub](https://github.com/zdm65477730/NX-Activity-Log)  
-
-**NX Screen-Uploader**  
-**Descrição:** Envie capturas de tela (imagens e vídeos curtos) do Nintendo Switch diretamente para o Telegram.  
-**Desenvolvedores:** [sakarie9](https://github.com/sakarie9) - [Github](https://github.com/sakarie9/NX-ScreenUploader)
 
 **Reboot**  
 **Descrição:** Reinicie seu Nintendo Switch rapidamente (ideal para consoles modchip).  
