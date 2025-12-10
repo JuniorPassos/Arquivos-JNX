@@ -1,31 +1,31 @@
 ## Complementos e Módulos PT-BR para Atmosphère - Nintendo Switch  
 
-Arquivos testados e compatíveis com AMS 1.9.5.  
+Arquivos testados e compatíveis com AMS 1.10.1.  
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
-1_sys-clk -------------------- v2.0.1+r18 
-2_EdiZon --------------------- v1.0.13 
+1_sys-clk -------------------- v2.0.1+r19 
+2_EdiZon --------------------- v1.0.14 
 3_Emuiibo -------------------- v1.1.1 
-4_StatusMonitor -------------- v1.3.2+r1 
-5_FPSLocker ------------------ v3.1.0 
-6_ReverseNX-RT --------------- v2.2.0 
+4_StatusMonitor -------------- v1.3.2+r3 
+5_FPSLocker ------------------ v3.2.1 
+6_ReverseNX-RT --------------- v2.2.1 
 7_MasterVolume --------------- v1.2.2 
-8_SysModules ----------------- v1.4.4 
+8_SysModules ----------------- v1.4.5 
 ovlmenu (ultrahand) ---------- v2.2.0 
 ```
 
 Adicionado também alguns homebrews e complementos:  
 ```sh 
 nx-ovlloader ----------------- v2.0.0 
-MissionControl --------------- v0.14.0 
-sys-con ---------------------- v1.6.0 
+MissionControl --------------- v0.14.1 
+sys-con ---------------------- v1.6.1 
 SaltyNX ---------------------- v1.6.2
 sphaira ---------------------- v1.0.0 
 Reboot ----------------------- v1.2.2  
 NX Activity Log -------------- v1.5.8 
 TegraExplorer ---------------- v4.2.0
-OC Switchcraft EOS ----------- v1.7.0
+OC Switchcraft EOS ----------- v1.7.1
 ```
 Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idioma.  
 
