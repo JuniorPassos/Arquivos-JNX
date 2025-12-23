@@ -53,15 +53,15 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 
 **Status Monitor Overlay**  
 **Descrição:** Exibe diversas infos do hardware/sistema. Também pode exibir o FPS nos jogos com o auxílio do SaltyNX.  
-**Desenvolvedor:** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/Status-Monitor-Overlay)  
+**Desenvolvedor (fork):** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/Status-Monitor-Overlay)  
 
 **FPSLocker Overlay**  
 **Descrição:** Permite definir taxas de atualização de tela e FPS personalizados nos jogos com o auxílio do SaltyNX.  
-**Desenvolvedor:** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/FPSLocker)  
+**Desenvolvedor (fork):** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/FPSLocker)  
 
 **ReverseNX-RT Overlay**  
 **Descrição:** Engana o sistema fazendo-o pensar que está no Modo Dock ao usar o modo portátil ou vice-versa com o auxílio do SaltyNX.  
-**Desenvolvedor:** [masagrator](https://github.com/masagrator) - [GitHub](https://github.com/masagrator/ReverseNX-RT)   
+**Desenvolvedor (fork):** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/ReverseNX-RT)   
 
 **MasterVolume Overlay**  
 **Descrição:** Potencialize ou ajuste o volume diretamente pelo controle do Switch mesmo quando conectado na Dock.  
@@ -101,7 +101,6 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 
 
 ## 📝  
-Agradecimentos ao **[zdm65477730](https://github.com/zdm65477730)**  por fornecer o código fonte para suporte multi-idioma de alguns módulos.  
 Agradecimentos ao **[ppkantorski](https://github.com/ppkantorski)**  por seu grande esforço em trabalhar constantemente no ultrahand e seus complementos.  
 Agradecimentos à todos os desenvolvedores acima por seus respectivos softwares.  
 Arquivos modificados, recompilados e traduzidos para Português do Brasil por **Junior Passos**.  
