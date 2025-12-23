@@ -4,15 +4,15 @@ Arquivos testados e compatíveis com AMS 1.10.1.
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla:  
 ```sh
-1_sys-clk -------------------- v2.0.1+r19 
-2_EdiZon --------------------- v1.0.14 
-3_Emuiibo -------------------- v1.1.1 
-4_StatusMonitor -------------- v1.3.2+r3 
-5_FPSLocker ------------------ v3.2.1 
+1_sys-clk -------------------- v2.0.1+r20 
+2_EdiZon --------------------- v1.0.15 
+3_Emuiibo -------------------- v1.1.2 
+4_StatusMonitor -------------- v1.3.2+r4 
+5_FPSLocker ------------------ v3.2.2+ 
 6_ReverseNX-RT --------------- v2.2.1 
 7_MasterVolume --------------- v1.2.2 
-8_SysModules ----------------- v1.4.5 
-ovlmenu (ultrahand) ---------- v2.2.0 
+8_SysModules ----------------- v1.4.6 
+ovlmenu (ultrahand) ---------- v2.2.6 
 ```
 
 Adicionado também alguns homebrews e complementos:  
@@ -57,7 +57,7 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 
 **FPSLocker Overlay**  
 **Descrição:** Permite definir taxas de atualização de tela e FPS personalizados nos jogos com o auxílio do SaltyNX.  
-**Desenvolvedor:** [masagrator](https://github.com/masagrator) - [GitHub](https://github.com/masagrator/FPSLocker)  
+**Desenvolvedor:** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/FPSLocker)  
 
 **ReverseNX-RT Overlay**  
 **Descrição:** Engana o sistema fazendo-o pensar que está no Modo Dock ao usar o modo portátil ou vice-versa com o auxílio do SaltyNX.  
