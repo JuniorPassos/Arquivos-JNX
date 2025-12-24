@@ -20,7 +20,7 @@ Adicionado também alguns homebrews e complementos:
 nx-ovlloader ----------------- v2.0.0 
 MissionControl --------------- v0.14.1 
 sys-con ---------------------- v1.6.1 
-SaltyNX ---------------------- v1.6.2
+SaltyNX ---------------------- v1.7.0
 sphaira ---------------------- v1.0.0 
 Reboot ----------------------- v1.2.2  
 NX Activity Log -------------- v1.5.8 
