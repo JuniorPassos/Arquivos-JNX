@@ -18,14 +18,14 @@ ovlmenu (Ultrahand) ---------- v2.2.7
 Adicionado também alguns homebrews e complementos:  
 ```sh 
 nx-ovlloader ----------------- v2.0.0 
-MissionControl --------------- v0.14.1 
+MissionControl --------------- v0.14.2 
 sys-con ---------------------- v1.6.2 
 SaltyNX ---------------------- v1.7.2
 sphaira ---------------------- v1.0.0 
 Reboot ----------------------- v1.2.2  
 NX Activity Log -------------- v1.5.8 
 TegraExplorer ---------------- v4.2.0
-OC Switchcraft EOS ----------- v1.7.1
+OC Switchcraft EOS ----------- v1.7.2
 ```
 Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idioma.  
 
