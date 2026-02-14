@@ -32,7 +32,7 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 
 ## 👨‍💻 
 
-**Ultrahand Overlay**  (acesso do menu ZL+ZR+DUP)  
+**Ultrahand Overlay**  (acesso do menu D-UP + ZL + ZR)  
 **Descrição:** Necessário para exibição e funcionamento dos módulos instalados.  
 **Desenvolvedor:** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/Ultrahand-Overlay)  
 
