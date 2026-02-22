@@ -4,16 +4,17 @@ Arquivos testados e compatíveis com AMS 1.10.2.
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla (Ultrahand):  
 ```sh
-1_sys-clk -------------------- v2.0.1+r21 
-2_EdiZon --------------------- v1.0.15 
-3_Emuiibo -------------------- v1.1.2 
-4_StatusMonitor -------------- v1.3.2+r6 
-5_FPSLocker ------------------ v3.3.0+ 
-6_ReverseNX-RT --------------- v2.2.1
-7_Fizeau --------------------- v2.8.2+r2
-8_MasterVolume --------------- v1.2.2 
-9_SysModules ----------------- v1.4.7 
-ovlmenu (Ultrahand) ---------- v2.2.7 
+1_sys-clk -------------------- 2.0.1+r21 
+2_EdiZon --------------------- 1.0.15 
+3_Emuiibo -------------------- 1.1.2 
+4_StatusMonitor -------------- 1.3.2+r6 
+5_FPSLocker ------------------ 3.3.0+ 
+6_ReverseNX-RT --------------- 2.2.1 
+7_Fizeau --------------------- 2.8.2+r2 
+7_SysTune -------------------- 2.0.1 
+8_MasterVolume --------------- 1.2.2 
+9_SysModules ----------------- 1.4.7 
+ovlmenu (Ultrahand) ---------- 2.2.9 
 ```
 
 Adicionado também alguns homebrews e complementos:  
@@ -21,12 +22,12 @@ Adicionado também alguns homebrews e complementos:
 nx-ovlloader ----------------- v2.0.0 
 MissionControl --------------- v0.14.2 
 sys-con ---------------------- v1.6.2 
-SaltyNX ---------------------- v1.7.4
+SaltyNX ---------------------- v1.7.4 
 sphaira ---------------------- v1.0.0 
-Reboot ----------------------- v1.2.2  
+Reboot ----------------------- v1.2.2 
 NX Activity Log -------------- v1.5.8 
-TegraExplorer ---------------- v4.2.0
-OC Switchcraft EOS ----------- v1.7.2
+TegraExplorer ---------------- v4.2.0 
+OC Switchcraft EOS ----------- v1.7.2 
 ```
 Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idioma.  
 
@@ -68,6 +69,10 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 **Descrição:** Ajuste as cores da tela do seu Nintendo Switch como saturação, filtros entre outras funções.  
 **Desenvolvedor (fork):** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/Fizeau)  
 
+**SysTune Overlay**  
+**Descrição:** Reproduza músicas em segundo plano mesmo quando estiver jogando (necessário colocar os arquivos de música no cartão).  
+**Desenvolvedor:** [HookedBehemoth](https://github.com/HookedBehemoth) - [GitHub](https://github.com/HookedBehemoth/sys-tune)  
+
 **MasterVolume Overlay**  
 **Descrição:** Potencialize ou ajuste o volume diretamente pelo controle do Switch mesmo quando conectado na Dock.  
 **Desenvolvedor:** [averne](https://github.com/averne) - [GitHub](https://github.com/averne/MasterVolume)  
@@ -108,5 +113,5 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 ## 📝  
 Agradecimentos ao **[ppkantorski](https://github.com/ppkantorski)**  por seu grande esforço em trabalhar constantemente no ultrahand e seus complementos.  
 Agradecimentos à todos os desenvolvedores acima por seus respectivos softwares.  
-Arquivos modificados, recompilados e traduzidos para Português do Brasil por **Junior Passos**.  
+Arquivos modificados, traduzidos e recompilados para Português do Brasil por **Junior Passos**.  
 
