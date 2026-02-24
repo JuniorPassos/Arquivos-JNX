@@ -8,7 +8,7 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 2_EdiZon --------------------- 1.0.15 
 3_Emuiibo -------------------- 1.1.2 
 4_StatusMonitor -------------- 1.3.2+r6 
-5_FPSLocker ------------------ 3.3.0+ 
+5_FPSLocker ------------------ 3.3.1+ 
 6_ReverseNX-RT --------------- 2.2.1 
 7_Fizeau --------------------- 2.8.2+r2 
 7_SysTune -------------------- 2.0.1 
