@@ -1,6 +1,6 @@
 ## Complementos e Módulos PT-BR para Atmosphère - Nintendo Switch  
 
-Arquivos testados e compatíveis com AMS 1.10.2.  
+Arquivos testados e compatíveis com AMS 1.11.1 e FW 22.1.0.  
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla (Ultrahand):  
 ```sh
@@ -20,14 +20,12 @@ ovlmenu (Ultrahand) ---------- 2.3.0
 Adicionado também alguns homebrews e complementos:  
 ```sh 
 nx-ovlloader ----------------- 2.0.0 
-MissionControl --------------- 0.14.2 
-sys-con ---------------------- 1.6.2 
-SaltyNX ---------------------- 1.7.4 
+MissionControl --------------- 0.15.1 
+SaltyNX ---------------------- 1.7.5 
 sphaira ---------------------- 1.0.0 
 Reboot ----------------------- 1.2.2 
 NX Activity Log -------------- 1.5.8 
-TegraExplorer ---------------- 4.2.0 
-OC Switchcraft EOS ----------- 1.7.2 
+TegraExplorer ---------------- 4.2.1 
 ```
 Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idioma.  
 
@@ -100,14 +98,6 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 **MissionControl**  
 **Descrição:** Conecte e use controles via bluetooth de outros consoles no seu Nintendo Switch.  
 **Desenvolvedor:** [ndeadly](https://github.com/ndeadly) - [GitHub](https://github.com/ndeadly/MissionControl)  
-
-**sys-con**  
-**Descrição:** Conecte e use controles USB de outros consoles no seu Nintendo Switch.  
-**Desenvolvedor:** [o0Zz](https://github.com/o0Zz) - [GitHub](https://github.com/o0Zz/sys-con)  
-
-**OC Switchcraft EOS**  
-**Descrição:** Arquivos complementares para gerenciar overclock de forma mais detalhada no seu Nintendo Switch.  
-**Desenvolvedor:** [halop](https://github.com/halop/) - [GitHub](https://github.com/halop/OC-Switchcraft-EOS)  
 
 
 ## 📝  
