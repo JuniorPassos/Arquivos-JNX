@@ -4,17 +4,17 @@ Arquivos testados e compatíveis com AMS 1.11.1 e FW 22.1.0.
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla (Ultrahand):  
 ```sh
-1_sys-clk -------------------- 2.0.1+r22 
+1_sys-clk -------------------- 2.0.1+r24 
 2_EdiZon --------------------- 1.0.15 
 3_Emuiibo -------------------- 1.1.3 
-4_StatusMonitor -------------- 1.3.2+r7 
-5_FPSLocker ------------------ 3.3.1+r1 
-6_ReverseNX-RT --------------- 2.2.1 
-7_Fizeau --------------------- 2.8.2+r3 
-7_SysTune -------------------- 2.0.0+ 
-8_MasterVolume --------------- 1.2.2 
-9_SysModules ----------------- 1.4.8 
-ovlmenu (Ultrahand) ---------- 2.3.0 
+4_StatusMonitor -------------- 1.3.2+r9 
+5_FPSLocker ------------------ 3.3.2+r1 
+6_ReverseNX-RT --------------- 2.2.1+ 
+7_Fizeau --------------------- 2.8.2+r5 
+7_SysTune -------------------- 2.1.0+r2 
+8_MasterVolume --------------- 1.2.2+ 
+9_SysModules ----------------- 1.5.0 
+ovlmenu (Ultrahand) ---------- 2.4.1 
 ```
 
 Adicionado também alguns homebrews e complementos:  
