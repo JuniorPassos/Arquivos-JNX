@@ -10,7 +10,7 @@ Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no M
 4_StatusMonitor -------------- 1.3.2+r9 
 5_FPSLocker ------------------ 3.3.2+r1 
 6_ReverseNX-RT --------------- 2.2.1+ 
-7_Fizeau --------------------- 2.8.2+r5 
+7_Fizeau --------------------- 2.8.2+r6 
 7_SysTune -------------------- 2.1.0+r2 
 8_MasterVolume --------------- 1.2.2+ 
 9_SysModules ----------------- 1.5.0 
