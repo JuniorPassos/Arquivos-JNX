@@ -4,24 +4,25 @@ Arquivos testados e compatíveis com AMS 1.11.1 e FW 22.1.0.
 Todos os módulos abaixo possuem suporte aos idiomas Inglês e Português do Brasil.  
 Os arquivos seguem com os nomes abaixo para manter essa ordem de exibição no Menu Tesla (Ultrahand):  
 ```sh
-1_sys-clk -------------------- 2.0.1+r24 
+1_sys-clk -------------------- 2.0.1+r25 
 2_EdiZon --------------------- 1.0.15 
 3_Emuiibo -------------------- 1.1.3 
-4_StatusMonitor -------------- 1.3.2+r9 
+4_StatusMonitor -------------- 1.4.1+ 
 5_FPSLocker ------------------ 3.3.2+r1 
 6_ReverseNX-RT --------------- 2.2.1+ 
 7_Fizeau --------------------- 2.8.2+r6 
 7_SysTune -------------------- 2.1.0+r2 
 8_MasterVolume --------------- 1.2.2+ 
-9_SysModules ----------------- 1.5.0 
-ovlmenu (Ultrahand) ---------- 2.4.1 
+9_SysModules ----------------- 1.5.1 
+ovlmenu (Ultrahand) ---------- 2.4.4 
 ```
 
 Adicionado também alguns homebrews e complementos:  
 ```sh 
-nx-ovlloader ----------------- 2.0.0 
+nx-ovlloader ----------------- 2.0.2 
+sys-clk-hoc ------------------ 2.3.1 
 MissionControl --------------- 0.15.1 
-SaltyNX ---------------------- 1.7.5 
+SaltyNX ---------------------- 1.8.1 
 sphaira ---------------------- 1.0.0 
 Reboot ----------------------- 1.2.2 
 NX Activity Log -------------- 1.5.8 
@@ -42,6 +43,10 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 **sys-clk Overlay**  
 **Descrição:** Permite gerenciar e personalizar as frequências da CPU, GPU e MEM do console.  
 **Desenvolvedor (fork):** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/sys-clk)  
+
+**sys-clk-hoc SysModule**  
+**Descrição:** Componente necessário para o funcionamento do sys-clk overlay.  
+**Desenvolvedor (fork):** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/Horizon-OC)) 
 
 **EdiZon Overlay**  
 **Descrição:** Ferramenta para aplicar trapaças nos jogos instalados no console.  
