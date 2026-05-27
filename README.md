@@ -46,7 +46,7 @@ Os homebrews **sphaira** e **NX Activity Log** também possuem suporte multi-idi
 
 **sys-clk-hoc SysModule**  
 **Descrição:** Componente necessário para o funcionamento do sys-clk overlay.  
-**Desenvolvedor (fork):** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/Horizon-OC)) 
+**Desenvolvedor (fork):** [ppkantorski](https://github.com/ppkantorski) - [GitHub](https://github.com/ppkantorski/Horizon-OC) 
 
 **EdiZon Overlay**  
 **Descrição:** Ferramenta para aplicar trapaças nos jogos instalados no console.  
